@@ -23,13 +23,13 @@ This solution is for the Samdesk intermediate backend developer coding challenge
    git clone https://github.com/hasali/adventofcode-day2-samdesk.git
    cd samdesk-challenge
 2. **Install Dependencies**:
-   
+   ```bash
    npm install
 3. **Run Program**:
-
+   ```bash 
    npm start
 4. **Run Tests (Optional)**:
-   
+   ```bash
    npm test 
 
 ### 🔧 Docker
